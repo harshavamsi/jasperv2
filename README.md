@@ -22,7 +22,7 @@ this will add all files and Then
 
 then write
 
-        git remote add jasper
+        git remote add jasper "paste rep url here"s
 
 and finally
 
